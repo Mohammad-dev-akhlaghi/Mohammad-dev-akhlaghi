@@ -34,7 +34,7 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-AKH-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-AKH-d&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-AKH-dev&layout=compact&theme=radical)
 
