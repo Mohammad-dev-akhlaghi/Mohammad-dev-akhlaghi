@@ -31,7 +31,10 @@ I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, F
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<a href="https://code.visualstudio.com/">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="40"/>
+  Visual Studio Code
+</a>
 
 ## GitHub Stats
 
