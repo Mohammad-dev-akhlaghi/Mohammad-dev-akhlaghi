@@ -6,7 +6,7 @@
 
 I'm Mohammad Akhlaghi, a FrontEnd developer  My Interests Are web development, Front-End design. My goal is to create software that makes people's lives easier and more efficient.
 
-- 🌱 Currently learning [Typescript](https://typescript.org/)
+- 🌱 Currently learning [Typescript](https://www.typescriptlang.org/)
 - 📫 How to reach me:
  - [LinkedIn](your-linkedin-profile-link)
  - [Email](mailto:mohammadakhlaghi843@gmail.com)
